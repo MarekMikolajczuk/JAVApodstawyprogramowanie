@@ -1,2 +1,5 @@
-package pl.sdaacademy.basic.day3;public class Zad3 {
+package pl.sdaacademy.basic.day3;
+
+public class Zad2 {
+    
 }

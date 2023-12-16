@@ -1,6 +1,6 @@
 package pl.sdaacademy.basic.day1;
 
-public class Zad6 {
+public class Zad6PracaDomowa {
 
     public static void main(String[] args) {
         printMultiplicationTable(4,10,3);

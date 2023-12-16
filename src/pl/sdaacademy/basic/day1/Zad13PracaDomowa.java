@@ -2,7 +2,7 @@ package pl.sdaacademy.basic.day1;
 
 import java.util.Scanner;
 
-public class Zad13 {
+public class Zad13PracaDomowa {
     /*Napisz program, który wczytuje od użytkownika liczby całkowite, do momentu aż zostanie
 podana liczba 0 (wartość ta jest pomijana w dalszych operacjach), następnie wyliczy i wyświetli:
 a) średnią arytmetyczną podanych liczb;
@@ -63,7 +63,6 @@ c) ilość liczb parzystych.*/
 
         System.out.println("Total Number Of Digits: " + counter);
         System.out.println("Total Number Of Even Digits:" + even);
-        System.out.println(sum);
         System.out.println("Arithmetic Average: " + (double) sum / counter);
 
     }
